@@ -1,7 +1,7 @@
 venv
 /.idea
 /venv
-
+stats_basics/.ipynb_checkpoints
 
 # User-specific stuff:
 .idea/workspace.xml
