@@ -1,5 +1,5 @@
 import numpy as np
-from algorithms import simple_linear_regression
+from regression import simple_linear_regression
 
 
 def test_linear_regression():
